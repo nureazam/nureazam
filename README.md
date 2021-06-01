@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on youtube/Blogging.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Python or nay
-- 📫 How to reach me: facebook
+- 📫 How to reach me: Twitter, Facebook
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 -->
